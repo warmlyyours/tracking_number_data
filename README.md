@@ -176,6 +176,9 @@ Python:
 Go:
   - [go-package-tracking](https://github.com/Freespoke/go-package-tracking)
 
+Rust:
+  - [rs-tracking-numbers](https://github.com/richid/rs-tracking-numbers)
+
 ### I am creating a new library
 
 If you are using this repo, it is most likely because you are writing a
