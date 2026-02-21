@@ -5,7 +5,7 @@
     {
       "name": "Purolator (12)",
       "id": "purolator_numeric",
-      "regex": "\\s*(?<SerialNumber>[0-5]\\s*([0-9]\\s*){10})(?<CheckDigit>[0-9]\\s*)",
+      "regex": "\\s*(?<SerialNumber>[0-5]\\s*([0-9]\\s*){10})(?<CheckDigit>[0-9])\\s*",
       "validation": {
         "checksum": {
           "name": "luhn"
